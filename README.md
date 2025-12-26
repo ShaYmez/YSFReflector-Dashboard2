@@ -22,7 +22,8 @@ Version 2 Official
 ## Screenshots
 
 ### Running Dashboard
-![YSFReflector-Dashboard2 Screenshot](https://github.com/user-attachments/assets/fb5440a7-7be5-4132-9010-4816d935daad)
+![YSFReflector-Dashboard2 Screenshot](./assets/ss/img/Screenshot-2025.png)
+- [LIVE!](https://ysf.freestar.network)
 
 *Dashboard showing real-time connection with pYSFReflector, including connected gateways, system information, and last heard list*
 
