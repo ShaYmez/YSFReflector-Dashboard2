@@ -2,6 +2,7 @@
 /**
  * YSFReflector-Dashboard2 - TX Status API
  * Lightweight endpoint for checking current transmission status
+ * Copyright (C) 2025  Shane Daley, M0VUB Aka. ShaYmez
  */
 
 // Load configuration and includes

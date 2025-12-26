@@ -2,6 +2,7 @@
 /**
  * YSFReflector-Dashboard2 - Core Functions
  * Functions for reading and parsing YSFReflector logs
+ * Copyright (C) 2025  Shane Daley, M0VUB Aka. ShaYmez
  */
 
 // Constants for log parsing

@@ -2,6 +2,7 @@
 /**
  * YSFReflector-Dashboard2 by M0VUB Aka ShaYmez - Main Dashboard
  * Responsive dashboard for YSFReflector & pYSFReflector
+ * Copyright (C) 2025  Shane Daley, M0VUB Aka. ShaYmez
  */
 
 $time = microtime();

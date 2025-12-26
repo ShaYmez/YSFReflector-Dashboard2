@@ -2,6 +2,7 @@
 /**
  * YSFReflector-Dashboard2 - Tools and Helper Functions
  * Modern dashboard for YSFReflector & pYSFReflector
+ * Copyright (C) 2025  Shane Daley, M0VUB Aka. ShaYmez
  */
 
 function format_time($seconds) {

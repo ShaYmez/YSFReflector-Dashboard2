@@ -2,6 +2,7 @@
 /**
  * YSFReflector-Dashboard2 - Setup Page
  * Initial configuration for YSFReflector Dashboard
+ * Copyright (C) 2025  Shane Daley, M0VUB Aka. ShaYmez
  * REMOVE THIS FILE AFTER SETUP IS COMPLETE!
  */
 

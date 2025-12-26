@@ -2,6 +2,7 @@
 /**
  * YSFReflector-Dashboard2 - Full Dashboard Data API
  * Returns all dashboard data for dynamic updates
+ * Copyright (C) 2025  Shane Daley, M0VUB Aka. ShaYmez
  */
 
 // Load configuration and includes
