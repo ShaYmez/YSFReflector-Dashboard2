@@ -45,7 +45,7 @@ define("VERSION", "2.0.1");
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="YSFReflector-Dashboard2 - Responsive">
+    <meta name="description" content="YSFReflector-Dashboard V2">
     <meta name="author" content="M0VUB Aka ShaYmez">
     <meta http-equiv="expires" content="0">
     
@@ -123,7 +123,7 @@ define("VERSION", "2.0.1");
                 <div class="flex-1">
                     <div class="flex items-center mb-2">
                         <span class="inline-block w-3 h-3 bg-red-500 rounded-full mr-3 animate-pulse"></span>
-                        <h2 class="text-3xl font-bold text-red-400">TRANSMITTING...</h2>
+                        <h2 class="text-3xl font-bold text-red-400">TRANSMITTING..</h2>
                     </div>
                     <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4">
                         <div>
