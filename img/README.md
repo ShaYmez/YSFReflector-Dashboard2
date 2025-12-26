@@ -16,7 +16,7 @@ The dashboard will automatically detect and use the logo file if it exists in th
 ## Usage
 
 1. Copy your logo file to this directory
-2. Name it `logo` with any supported extension (case-insensitive)
+2. Name it `logo` with any supported extension e.g logo.jpg (case-insensitive)
 3. The dashboard will automatically detect and display it
 
 Example:
