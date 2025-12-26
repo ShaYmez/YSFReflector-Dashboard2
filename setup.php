@@ -2,6 +2,7 @@
 /**
  * YSFReflector-Dashboard2 - Setup Page
  * Initial configuration for YSFReflector Dashboard
+ * REMOVE THIS FILE AFTER SETUP IS COMPLETE!
  */
 
 // Default configuration values
