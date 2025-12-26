@@ -1,7 +1,8 @@
 # YSFReflector-Dashboard2
 
 Modern web application dashboard for viewing connected gateways, repeaters, active users, and system statistics for YSFReflector and pYSFReflector.
-Version 2 Official
+
+Version 2.0.1 Official
 
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
 ![PHP](https://img.shields.io/badge/PHP-7.4%20%7C%208.x-purple.svg)
