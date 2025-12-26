@@ -58,7 +58,7 @@ npm install
 npm run build:css
 ```
 
-### 4. Set Permissions
+### 4. Set Permissions IMPORTANT!!
 
 ```bash
 sudo chown -R www-data:www-data /var/www/html/YSFReflector-Dashboard2
@@ -146,7 +146,7 @@ sudo systemctl reload nginx
    **Dashboard Branding:**
    - Dashboard Name: Your reflector name
    - Dashboard Tagline: Custom tagline
-   - Logo URL: (optional) URL to your logo image
+   - Logo URL: (optional) URL to your logo image or drop image file in /img
 
    **YSFReflector Configuration:**
    - Path to Log Files: `/var/log/YSFReflector/`
